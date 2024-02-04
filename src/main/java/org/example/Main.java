@@ -19,6 +19,7 @@ public class Main {
 
             temp[i] = array[array.length - 1 - i];
 
+
         }
         System.out.println(Arrays.toString(temp));
     }
